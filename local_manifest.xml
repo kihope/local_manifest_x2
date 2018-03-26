@@ -1,13 +1,15 @@
+LineageOS 15.1
+
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project path="device/leeco/msm8996-common" name="LineageOS/android_device_leeco_msm8996-common" remote="github" revision="lineage-15.1" />
   <project path="device/leeco/x2" name="LineageOS/android_device_leeco_x2" remote="github" revision="lineage-15.1" />
   <project path="vendor/leeco" name="TheMuppets/proprietary_vendor_leeco" remote="github" revision="lineage-15.1" />
-  <project path="kernel/leeco/msm8996" name="LineageOS/android_kernel_leeco_msm8996" remote="github" revision="lineage-15.1" />
+  <project path="kernel/leeco/msm8996" name="LineageOS/android_kernel_leeco_msm8996" remote="github" revision="lLineageOS 15.1" />
 </manifest>
 
 
-
+Shiva´s trees
 
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
@@ -15,4 +17,26 @@
   <project path="device/leeco/x2" name="shivatejapeddi/android_device_leeco_x2" remote="github" revision="aex-5.2" />
   <project path="vendor/leeco" name="shivatejapeddi/proprietary_vendor_leeco" remote="github" revision="oreo-mr1" />
   <project path="kernel/leeco/msm8996" name="LineageOS/android_kernel_leeco_msm8996" remote="github" revision="lineage-15.1" />
+</manifest>
+
+
+Cypher OS
+
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/leeco/msm8996-common" name="kihope/android_device_leeco_msm8996-common" remote="github" revision="aoscp" />
+  <project path="device/leeco/x2" name="kihope/android_device_leeco_x2" remote="github" revision="aoscp" />
+  <project path="vendor/leeco" name="kihope/proprietary_vendor_leeco" remote="github" revision="aoscp" />
+  <project path="kernel/leeco/msm8996" name="celtare21/android_kernel_leeco_msm8996" remote="github" revision="star-x2-reborn" />
+</manifest>
+
+
+DotOS
+
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/leeco/msm8996-common" name="kihope/android_device_leeco_msm8996-common" remote="github" revision="aoscp" />
+  <project path="device/leeco/x2" name="kihope/android_device_leeco_x2" remote="github" revision="dotos" />
+  <project path="vendor/leeco" name="kihope/proprietary_vendor_leeco" remote="github" revision="lineage-15.1" />
+  <project path="kernel/leeco/msm8996" name="celtare21/android_kernel_leeco_msm8996" remote="github" revision="star-x2-reborn" />
 </manifest>
