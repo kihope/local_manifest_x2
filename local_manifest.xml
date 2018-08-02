@@ -62,3 +62,14 @@ RevengeOS
   <project path="vendor/leeco" name="kihope/proprietary_vendor_leeco" remote="github" revision="revenge_8.1" />
   <project path="kernel/leeco/msm8996" name="kihope/revenge_kernel_leeco_msm8996" remote="github" revision="r8.1" />
 </manifest>
+
+
+Treble trees
+
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/leeco/msm8996-common" name="kihope/treble_device_leeco_msm8996-common" remote="github" revision="treble" />
+  <project path="device/leeco/x2" name="kihope/treble_device_leeco_x2" remote="github" revision="treble" />
+  <project path="vendor/leeco" name="kihope/treble_vendor_leeco" remote="github" revision="treble" />
+  <project path="kernel/leeco/msm8996" name="kihope/treble_kernel_leeco_msm8996" remote="github" revision="treble" />
+</manifest>
