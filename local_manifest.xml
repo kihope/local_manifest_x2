@@ -1,4 +1,4 @@
-LineageOS 15.1
+LineageOS 15.1 (android oreo)
 
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
@@ -9,7 +9,7 @@ LineageOS 15.1
 </manifest>
 
 
-LineageOS 16.0
+LineageOS 16.0 (android pie)
 
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
@@ -20,18 +20,18 @@ LineageOS 16.0
 </manifest>
  
 
-Shiva´s trees
+Pixel Experience 9 (android pie)
 
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/leeco/msm8996-common" name="shivatejapeddi/android_device_leeco_msm8996-common" remote="github" revision="oreo-mr1" />
-  <project path="device/leeco/x2" name="shivatejapeddi/android_device_leeco_x2" remote="github" revision="aex-5.2" />
-  <project path="vendor/leeco" name="shivatejapeddi/proprietary_vendor_leeco" remote="github" revision="oreo-mr1" />
-  <project path="kernel/leeco/msm8996" name="LineageOS/android_kernel_leeco_msm8996" remote="github" revision="lineage-15.1" />
+  <project path="device/leeco/msm8996-common" name="kihope/android_device_leeco_msm8996-common" remote="github" revision="Pixel" />
+  <project path="device/leeco/x2" name="kihope/android_device_leeco_x2" remote="github" revision="Pixel" />
+  <project path="vendor/leeco" name="TheMuppets/proprietary_vendor_leeco" remote="github" revision="lineage-16.0" />
+  <project path="kernel/leeco/msm8996" name="LineageOS/android_kernel_leeco_msm8996" remote="github" revision="lineage-16.0" />
 </manifest>
 
 
-Cypher OS
+Cypher OS 6 (android oreo)
 
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
@@ -42,7 +42,7 @@ Cypher OS
 </manifest>
 
 
-DotOS
+DotOS (android oreo)
 
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
@@ -53,7 +53,7 @@ DotOS
 </manifest>
 
 
-Bootleggers
+Bootleggers (android oreo)
 
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
@@ -64,7 +64,7 @@ Bootleggers
 </manifest>
 
 
-RevengeOS
+RevengeOS 1.0 (android oreo)
 
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
@@ -86,7 +86,7 @@ Treble trees
 </manifest>
 
 
-Revenge 2.0 trees
+Revenge 2.0 (android pie)
 
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
