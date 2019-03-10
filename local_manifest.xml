@@ -90,8 +90,8 @@ Revenge 2.0 (android pie)
 
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/leeco/msm8996-common" name="RevengeOS-Devices/android_device_leeco_msm8996-common" remote="github" revision="r9.0" />
-  <project path="device/leeco/x2" name="RevengeOS-Devices/android_device_leeco_x2" remote="github" revision="r9.0" />
-  <project path="vendor/leeco" name="RevengeOS-Devices/proprietary_vendor_leeco" remote="github" revision="r9.0" />
-  <project path="kernel/leeco/msm8996" name="RevengeOS-Devices/android_kernel_leeco_msm8996" remote="github" revision="r9.0" />
+  <project path="device/leeco/msm8996-common" name="RevengeOS-Devices/android_device_leeco_msm8996-common" remote="github" revision="r9.0-caf" />
+  <project path="device/leeco/x2" name="RevengeOS-Devices/android_device_leeco_x2" remote="github" revision="r9.0-caf" />
+  <project path="vendor/leeco" name="RevengeOS-Devices/proprietary_vendor_leeco" remote="github" revision="r9.0-caf" />
+  <project path="kernel/leeco/msm8996" name="RevengeOS-Devices/android_kernel_leeco_msm8996" remote="github" revision="r9.0-caf" />
 </manifest>
